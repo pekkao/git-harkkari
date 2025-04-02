@@ -7,3 +7,4 @@ Remember to commit frequently
 It is better to do it often
 New stuff
 Improves team work
+Understanding version history is important
