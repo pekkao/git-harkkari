@@ -5,3 +5,4 @@ Reima added again
 There will be lots of writing of scripts
 Remember to commit frequently
 It is better to do it often
+Improves team work
