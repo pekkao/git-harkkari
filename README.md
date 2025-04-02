@@ -10,3 +10,4 @@ Improves team work
 Understanding version history is important
 Release early and release often
 Rebase example
+Feature 1 addition
